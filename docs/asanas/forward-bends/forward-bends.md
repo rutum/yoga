@@ -1,6 +1,6 @@
 ---
 title: Forward Bends
-nav_order: 2
+parent: Asanas
 ---
 
 # Forward Bends

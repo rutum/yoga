@@ -1,5 +1,5 @@
 ---
 title: Yoga Sutras
 layout: default
-nav_order: 5
+parent: Spiritual
 ---

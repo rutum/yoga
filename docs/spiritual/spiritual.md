@@ -1,0 +1,4 @@
+---
+title: Spiritual
+layout: default
+---
