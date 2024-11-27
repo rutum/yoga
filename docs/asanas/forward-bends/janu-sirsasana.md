@@ -3,6 +3,8 @@ title: Janu Sirsasana (Head to Knee Pose)
 parent: Forward Bends
 ---
 
+# Janu Sirsasana (Head to Knee Pose)
+
 ## Information Chart
 
 |:------------------|:---------------|

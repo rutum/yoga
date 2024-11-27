@@ -3,6 +3,8 @@ title: Chakravakasana (Ruddy Goose Pose)
 parent: Forward Bends
 ---
 
+# Chakravakasana (Ruddy Goose Pose)
+
 ## Information Chart
 
 |:------------------|:---------------|
