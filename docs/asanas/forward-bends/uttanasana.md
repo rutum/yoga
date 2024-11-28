@@ -4,35 +4,24 @@ parent: Forward Bends
 ---
 
 # Uttanasana
-{: .no_toc }
 
-## Table of contents
-{: .no_toc .text-delta }
+## Information Chart
 
-1. TOC
-{:toc}
-
----
-
-## Position
-
-
-## Direction
+|:------------------|:---------------|
+| **Sanskrit Name**     |      |
+| **Translation**       |    |
+| **Position**          |    |
+| **Direction**         |     |
+| **Style**             |     |
+| **Benefits**          | Primary: Stretch themuscles of the back and spine <br> Secondary: stretch the hamstrings and the back of the body   |
 
 
-## Vinyasa Krama
+## Vinyasa Krama 
 
-## Preparation
+## Preparation 
 
-## Counterpose
-
-
-## Benefits
-
+## Counterposes
 
 ## Contraindications
 
-
 ## Variations
-
-
