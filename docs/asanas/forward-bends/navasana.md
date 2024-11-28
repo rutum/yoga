@@ -2,18 +2,17 @@
 title: Navasana
 parent: Forward Bends
 ---
-# Navasana
+# Navasana (Boat Pose)
 
 ## Information Chart
 
 |:------------------|:---------------|
-| **Sanskrit Name**     |      |
-| **Translation**       |    |
-| **Position**          |    |
-| **Direction**         |     |
-| **Style**             |     |
+| **Translation**       |  Boat Pose (Nav = Boat, Asana = Pose)  |
+| **Position**          |  Seated  |
+| **Direction**         |  Forward Bend  |
+| **Style**             |  Symmetrical   |
 | **Benefits**          | Primary: Stretch themuscles of the back and spine <br> Secondary: stretch the hamstrings and the back of the body   |
-
+| Difficulty | | 
 
 ## Vinyasa Krama 
 
