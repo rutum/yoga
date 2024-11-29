@@ -4,7 +4,7 @@ parent: Forward Bends
 ---
 
 # Janu Sirsasana (Head to Knee Pose)
-Moderate Pose
+Moderate 
 {: .label .label-yellow }
 ![janusirsasana](/yoga/assets/images/fb/janu-sirsasana.png)
 ## Information Chart

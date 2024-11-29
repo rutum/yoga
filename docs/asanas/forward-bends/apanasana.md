@@ -4,7 +4,7 @@ parent: Forward Bends
 ---
 
 # Apanasana (Knees to Chest Pose)
-Easy Pose
+Easy
 {: .label .label-blue }
 ![apanasana](/yoga/assets/images/fb/apanasana.png)
 
