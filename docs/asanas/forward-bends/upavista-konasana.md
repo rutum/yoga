@@ -4,7 +4,8 @@ parent: Forward Bends
 ---
 
 # Upavista Konasana
-
+Moderate
+{: .label .label-yellow }
 ## Information Chart
 
 |:------------------|:---------------|

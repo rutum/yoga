@@ -4,7 +4,8 @@ grandparent: Forward Bends
 parent: Navasana
 ---
 # Ardha Navasana (Half Boat Pose)
-
+Moderate
+{: .label .label-yellow }
 ## Information Chart
 
 |:----------------|:---------------------------------------|

@@ -4,7 +4,8 @@ parent: Forward Bends
 ---
 
 # Prasarita Padottanasana
-
+Easy
+{: .label .label-blue }
 ## Information Chart
 
 |:----------------|:---------------|

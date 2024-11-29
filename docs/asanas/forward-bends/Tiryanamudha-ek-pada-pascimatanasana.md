@@ -4,7 +4,8 @@ grand-parent: Forward Bends
 parent: Pascimatanasana
 ---
 # Tiryanamudha Ek Pada Pascimatanasana
-
+Intermediate
+{: .label .label-red }
 ## Information Chart
 
 |:----------------|:---------------|

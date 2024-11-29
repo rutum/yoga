@@ -4,7 +4,8 @@ parent: Forward Bends
 ---
 
 # Ubhaya Padangustasana
-
+Intermediate
+{: .label .label-Red }
 ## Information Chart
 
 |:------------------|:---------------|

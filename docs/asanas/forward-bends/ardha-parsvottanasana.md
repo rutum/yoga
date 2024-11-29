@@ -5,7 +5,8 @@ grand-parent: Forward Bends
 ---
 
 # Ardha Parsvottanasana
-
+Moderate
+{: .label .label-yellow }
 ## Information Chart
 
 |:------------------|:---------------|
