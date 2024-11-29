@@ -4,6 +4,7 @@ parent: Forward Bends
 ---
 
 # Apanasana (Knees to Chest Pose)
+![apanasana](/yoga/docs/assets/images/fb/apanasana.png)
 
 ## Information Chart
 
