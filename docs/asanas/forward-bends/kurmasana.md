@@ -4,7 +4,8 @@ parent: Forward Bends
 ---
 
 # Kurmasana
-
+Intermediate
+{: .label .label-red }
 ## Information Chart
 
 |:------------------|:---------------|

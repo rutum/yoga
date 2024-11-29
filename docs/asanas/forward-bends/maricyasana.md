@@ -3,7 +3,7 @@ title: Maricyasana (Forward Fold dedicated to Sage Marici)
 parent: Forward Bends
 ---
 # Maricyasana (Forward Fold dedicated to Sage Marici)
-Intermediate/Advanced
+Intermediate
 {: .label .label-red }
 ![maricyasana](/yoga/assets/images/fb/maricyasana.png)
 

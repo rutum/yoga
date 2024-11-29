@@ -3,7 +3,8 @@ title: Padangustasana
 parent: Forward Bends
 ---
 # Padangustasana
-
+Moderate
+{: .label .label-yellow }
 ## Information Chart
 
 |:----------------|:---------------|

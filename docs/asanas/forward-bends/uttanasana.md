@@ -4,7 +4,8 @@ parent: Forward Bends
 ---
 
 # Uttanasana
-
+Easy
+{: .label .label-blue }
 ## Information Chart
 
 |:----------------|:---------------|

@@ -4,7 +4,7 @@ parent: Forward Bends
 ---
 
 # Chakravakasana (Ruddy Goose Pose)
-Easy Pose
+Easy
 {: .label .label-blue }
 ![chakravakasana](/yoga/assets/images/fb/chakravakasana.png)
 

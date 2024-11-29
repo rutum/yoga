@@ -4,7 +4,8 @@ parent: Forward Bends
 ---
 
 # Krauncasana
-
+Intermediate
+{: .label .label-red }
 ## Information Chart
 
 |:------------------|:---------------|

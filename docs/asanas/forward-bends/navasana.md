@@ -3,7 +3,8 @@ title: Navasana
 parent: Forward Bends
 ---
 # Navasana (Boat Pose)
-
+Moderate
+{: .label .label-yellow }
 ## Information Chart
 
 |:----------------|:---------------------------------------|

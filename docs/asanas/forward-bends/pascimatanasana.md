@@ -4,6 +4,9 @@ parent: Forward Bends
 ---
 # Pascimatanasana
 
+Moderate
+{: .label .label-yellow }
+
 ## Information Chart
 
 |:----------------|:---------------|
