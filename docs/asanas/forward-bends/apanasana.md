@@ -4,9 +4,12 @@ parent: Forward Bends
 ---
 
 # Apanasana (Knees to Chest Pose)
-![apanasana](/yoga/docs/assets/images/fb/apanasana.png)
+Easy Pose
+{: .label .label-blue }
+![apanasana](/yoga/assets/images/fb/apanasana.png)
 
 ## Information Chart
+
 
 |:----------------|:---------------|
 | **Translation** | Knees to Chest Post or Wind Relieving Pose or Breaking Wind Pose   |
@@ -14,8 +17,7 @@ parent: Forward Bends
 | **Direction**   | Forward Bend   |
 | **Style**       | Symmetrical   |
 | **Benefits**    | Primary: Stretch themuscles of the back and spine <br> Secondary: stretch the hamstrings and the back of the body   |
-| **Difficulty**  | Easy                                    | 
-
+|**Difficulty** | Easy|
 
 ## Vinyasa Krama 
 Start on your back with yout knees bent and drawn to the chest and off of the floor. On exhale, pull your knees progressively closer to your chest. On inhale return to starting position. Get out of the post by putting your feet gently on the ground. Repeat for 5-8 breaths. 
