@@ -12,6 +12,7 @@ parent: Forward Bends
 | **Direction**         |   Forward Bend  |
 | **Style**             |   Assymetrical  |
 | **Benefits**          | Primary: Stretch themuscles of the back and spine <br> Secondary: stretch the hamstrings and the back of the body   |
+| **Difficulty**  |  Intermediate/Advanced                                      | 
 
 
 ## Vinyasa Krama 

@@ -1,19 +1,19 @@
 ---
-title: Utkatanasana
+title: Kurmasana
 parent: Forward Bends
 ---
 
-# Utkatanasana
+# Kurmasana
 
 ## Information Chart
 
 |:------------------|:---------------|
-| **Translation**       |    |
-| **Position**          |    |
-| **Direction**         |     |
-| **Style**             |     |
+| **Translation**       | Turtle Pose  |
+| **Position**          |   |
+| **Direction**         | Forward Bend   |
+| **Style**             |    |
 | **Benefits**          | Primary: Stretch themuscles of the back and spine <br> Secondary: stretch the hamstrings and the back of the body   |
-
+| **Difficulty**  |  Intermediate/Advanced                                      | 
 
 ## Vinyasa Krama 
 
@@ -24,3 +24,5 @@ parent: Forward Bends
 ## Contraindications
 
 ## Variations
+
+

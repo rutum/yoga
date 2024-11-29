@@ -1,8 +1,9 @@
 ---
-title: Padangustasana
-parent: Forward Bends
+title: Tiryanamudha Ek Pada Pascimatanasana
+grand-parent: Forward Bends
+parent: Pascimatanasana
 ---
-# Padangustasana
+# Tiryanamudha Ek Pada Pascimatanasana
 
 ## Information Chart
 
@@ -12,7 +13,9 @@ parent: Forward Bends
 | **Direction**   |     |
 | **Style**    |     |
 | **Benefits** | Primary: Stretch themuscles of the back and spine <br> Secondary: stretch the hamstrings and the back of the body   |
-| **Difficulty**  |  Moderate                              | 
+| **Difficulty**  |  Intermediate/Advanced                              | 
+
+
 
 ## Vinyasa Krama 
 

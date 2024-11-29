@@ -8,7 +8,6 @@ grand-parent: Forward Bends
 ## Information Chart
 
 |:------------------|:---------------|
-| **Sanskrit Name**     |      |
 | **Translation**       |    |
 | **Position**          |    |
 | **Direction**         |     |

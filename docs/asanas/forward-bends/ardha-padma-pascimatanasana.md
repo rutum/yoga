@@ -1,5 +1,5 @@
 ---
-title: Ardha Padma Pascimatanasana (Half Lotus Forward Fold)
+title: Ardha Baddha Padma Pascimatanasana (Half Lotus Forward Fold)
 parent: Pascimatanasana
 ---
 
@@ -8,13 +8,12 @@ parent: Pascimatanasana
 ## Information Chart
 
 |:------------------|:---------------|
-| **Sanskrit Name**     | Ardha Padma Pascimatanasana    |
 | **Translation**       | Half Lotus Forward Fold  |
 | **Position**          | Seated  |
 | **Direction**         | Forward Bend   |
 | **Style**             | Assymmetrical   |
-| **Benefits**          | Primary: Stretch themuscles of the back and spine <br> Secondary: stretch the hamstrings and the back of the body   |
-
+| **Benefits**          | Primary: Stretch the muscles of the back and spine <br> Secondary: stretch the hamstrings and the back of the body   |
+| **Difficulty**  |  Intermediate/Advanced                                      | 
 
 ## Vinyasa Krama 
 

@@ -7,13 +7,13 @@ parent: Forward Bends
 
 ## Information Chart
 
-|:------------------|:---------------|
-| **Sanskrit Name**     | Chakravakasana   |
-| **Translation**       | The Ruddy Goose Pose   |
-| **Position**          | Kneeling |
-| **Direction**         | Forward Bend   |
-| **Style**             | Symmetrical   |
-| **Benefits**          | Primary: Stretch themuscles of the back and spine <br> Secondary: stretch the hamstrings and the back of the body   |
+|:----------------|:---------------|
+| **Translation** | The Ruddy Goose Pose   |
+| **Position**    | Kneeling |
+| **Direction**   | Forward Bend   |
+| **Style**       | Symmetrical   |
+| **Benefits**    | Primary: Stretch themuscles of the back and spine <br> Secondary: stretch the hamstrings and the back of the body   |
+| **Difficulty**  |  Easy                                      | 
 
 
 ## Vinyasa Krama 

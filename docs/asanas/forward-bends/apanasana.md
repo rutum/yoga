@@ -7,13 +7,13 @@ parent: Forward Bends
 
 ## Information Chart
 
-|:------------------|:---------------|
-| **Sanskrit Name**     | Apanasana   |
-| **Translation**       | Knees to Chest Post or Wind Relieving Pose or Breaking Wind Pose   |
-| **Position**          | Supine (Lying on the back on the mat)  |
-| **Direction**         | Forward Bend   |
-| **Style**             | Symmetrical   |
-| **Benefits**          | Primary: Stretch themuscles of the back and spine <br> Secondary: stretch the hamstrings and the back of the body   |
+|:----------------|:---------------|
+| **Translation** | Knees to Chest Post or Wind Relieving Pose or Breaking Wind Pose   |
+| **Position**    | Supine (Lying on the back on the mat)  |
+| **Direction**   | Forward Bend   |
+| **Style**       | Symmetrical   |
+| **Benefits**    | Primary: Stretch themuscles of the back and spine <br> Secondary: stretch the hamstrings and the back of the body   |
+| **Difficulty**  | Easy                                    | 
 
 
 ## Vinyasa Krama 

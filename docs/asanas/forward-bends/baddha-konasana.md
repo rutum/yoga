@@ -1,9 +1,9 @@
 ---
-title: Upavista Konasana
+title: Baddhna Konasana
 parent: Forward Bends
 ---
 
-# Upavista Konasana
+# Baddha Konasana
 
 ## Information Chart
 
@@ -11,7 +11,7 @@ parent: Forward Bends
 | **Translation**       |    |
 | **Position**          |    |
 | **Direction**         |     |
-| **Style**             |     |
+| **Style**    |     |
 | **Benefits** | Primary: Stretch themuscles of the back and spine <br> Secondary: stretch the hamstrings and the back of the body   |
 | **Difficulty**  |  Moderate                              | 
 

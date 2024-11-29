@@ -1,9 +1,9 @@
 ---
-title: Upavista Konasana
+title: Krauncasana
 parent: Forward Bends
 ---
 
-# Upavista Konasana
+# Krauncasana
 
 ## Information Chart
 
@@ -12,8 +12,8 @@ parent: Forward Bends
 | **Position**          |    |
 | **Direction**         |     |
 | **Style**             |     |
-| **Benefits** | Primary: Stretch themuscles of the back and spine <br> Secondary: stretch the hamstrings and the back of the body   |
-| **Difficulty**  |  Moderate                              | 
+| **Benefits**          | Primary: Stretch themuscles of the back and spine <br> Secondary: stretch the hamstrings and the back of the body   |
+| **Difficulty**  |  Intermediate/Advanced                                      | 
 
 
 ## Vinyasa Krama 

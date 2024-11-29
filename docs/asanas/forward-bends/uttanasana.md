@@ -7,14 +7,13 @@ parent: Forward Bends
 
 ## Information Chart
 
-|:------------------|:---------------|
-| **Sanskrit Name**     |      |
-| **Translation**       |    |
-| **Position**          |    |
-| **Direction**         |     |
-| **Style**             |     |
-| **Benefits**          | Primary: Stretch themuscles of the back and spine <br> Secondary: stretch the hamstrings and the back of the body   |
-
+|:----------------|:---------------|
+| **Translation** |    |
+| **Position**    |    |
+| **Direction**   |     |
+| **Style**       |     |
+| **Benefits**    | Primary: Stretch themuscles of the back and spine <br> Secondary: stretch the hamstrings and the back of the body   |
+| **Difficulty**  |  Easy                              | 
 
 ## Vinyasa Krama 
 

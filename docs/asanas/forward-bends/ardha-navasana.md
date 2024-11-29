@@ -1,16 +1,17 @@
 ---
-title: Navasana
-parent: Forward Bends
+title: Ardha Navasana (Half Boat Pose)
+grandparent: Forward Bends
+parent: Navasana
 ---
-# Navasana (Boat Pose)
+# Ardha Navasana (Half Boat Pose)
 
 ## Information Chart
 
 |:----------------|:---------------------------------------|
-| **Translation** | Boat Pose (Nav = Boat, Asana = Pose)  |
-| **Position**    | Seated                                |
+| **Translation** | Half Boat Pose (Nav = Boat, Asana = Pose)  |
+| **Position**    |                                 |
 | **Direction**   | Forward Bend                          |
-| **Style**       | Symmetrical                           |
+| **Style**       | 
 | **Benefits**    | Primary: Stretch themuscles of the back and spine <br> Secondary: stretch the hamstrings and the back of the body   |
 | **Difficulty**  | Moderate                              | 
 
