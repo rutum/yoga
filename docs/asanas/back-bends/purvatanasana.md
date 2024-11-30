@@ -1,11 +1,9 @@
 ---
-title: Bhujangasana (Cobra Pose)
+title: Purvatanasana (Upward Plank Pose)
 parent: Back Bends
 ---
 
-# Bhujangasana (Cobra Pose)
-Easy
-{: .label .label-blue }
+# Purvatanasana (Upward Plank Pose, Stretching to the East Pose)
 
 ## Information Chart
 
@@ -15,7 +13,7 @@ Easy
 | **Direction**   |     |
 | **Style**    |     |
 | **Benefits** | Primary: Strengthen the Spine <br> Secondary: Stretch the front of the body   |
-| **Difficulty**  |  Easy                              | 
+| **Difficulty**  |   intermediate/advanced                             | 
 
 
 

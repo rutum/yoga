@@ -1,11 +1,11 @@
 ---
-title: Bhujangasana (Cobra Pose)
-parent: Back Bends
+title: Eka Pada Ustrasana (One Legged Camel Pose Pose)
+parent: Ustrasana
+grand-parent: Back Bends
 ---
 
-# Bhujangasana (Cobra Pose)
-Easy
-{: .label .label-blue }
+# Eka Pada Ustrasana (One Legged Camel Pose Pose)
+
 
 ## Information Chart
 
@@ -15,7 +15,7 @@ Easy
 | **Direction**   |     |
 | **Style**    |     |
 | **Benefits** | Primary: Strengthen the Spine <br> Secondary: Stretch the front of the body   |
-| **Difficulty**  |  Easy                              | 
+| **Difficulty**  |                                | 
 
 
 

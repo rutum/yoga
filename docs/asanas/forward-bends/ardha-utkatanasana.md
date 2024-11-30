@@ -5,6 +5,8 @@ grand-parent: Forward Bends
 ---
 
 # Ardha Utkatanasana
+Easy
+{: .label .label-blue }
 
 ## Information Chart
 

@@ -1,11 +1,10 @@
 ---
-title: Bhujangasana (Cobra Pose)
+title: Virbhadrasana 1 (Warrior 1)
 parent: Back Bends
 ---
 
-# Bhujangasana (Cobra Pose)
-Easy
-{: .label .label-blue }
+# Virbhadrasana 1 (Warrior 1)
+
 
 ## Information Chart
 
@@ -15,7 +14,7 @@ Easy
 | **Direction**   |     |
 | **Style**    |     |
 | **Benefits** | Primary: Strengthen the Spine <br> Secondary: Stretch the front of the body   |
-| **Difficulty**  |  Easy                              | 
+| **Difficulty**  |                                | 
 
 
 

@@ -29,8 +29,8 @@ There should always be a [Forward Bend](/yoga/docs/asanas/forward-bends/forward-
 
 ## Definition of Asana Types
 
-Supine: Lying on the back on the mat/floor \\
-Kneeling: Knees only ot hands and knees \\
-Prone: On the belly facing the sloor \\
-Standing: Standing with feet ont eh floor \\
-Seated: Seated position with the butt on the floor. 
+- Supine: Lying on the back on the mat/floor \\
+- Kneeling: Knees only ot hands and knees \\
+- Prone: On the belly facing the sloor \\
+- Standing: Standing with feet ont eh floor \\
+- Seated: Seated position with the butt on the floor. 

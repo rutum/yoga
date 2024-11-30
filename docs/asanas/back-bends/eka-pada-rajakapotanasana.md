@@ -1,11 +1,10 @@
 ---
-title: Bhujangasana (Cobra Pose)
+title: Eka Pada Rajakapotanasana (One footed king Piegon Pose)
 parent: Back Bends
 ---
 
-# Bhujangasana (Cobra Pose)
-Easy
-{: .label .label-blue }
+# Eka Pada Rajakapotanasana (One Footed King Piegon Pose)
+
 
 ## Information Chart
 
@@ -15,7 +14,7 @@ Easy
 | **Direction**   |     |
 | **Style**    |     |
 | **Benefits** | Primary: Strengthen the Spine <br> Secondary: Stretch the front of the body   |
-| **Difficulty**  |  Easy                              | 
+| **Difficulty**  |                                | 
 
 
 

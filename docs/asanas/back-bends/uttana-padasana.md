@@ -1,11 +1,10 @@
 ---
-title: Bhujangasana (Cobra Pose)
+title: Uttana Padasana (Raised Leg Pose)
 parent: Back Bends
 ---
 
-# Bhujangasana (Cobra Pose)
-Easy
-{: .label .label-blue }
+# Uttana Padasana (Raised Leg Pose)
+
 
 ## Information Chart
 
@@ -15,7 +14,7 @@ Easy
 | **Direction**   |     |
 | **Style**    |     |
 | **Benefits** | Primary: Strengthen the Spine <br> Secondary: Stretch the front of the body   |
-| **Difficulty**  |  Easy                              | 
+| **Difficulty**  |                                | 
 
 
 
