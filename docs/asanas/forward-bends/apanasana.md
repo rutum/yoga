@@ -20,7 +20,7 @@ Easy
 |**Difficulty** | Easy|
 
 ## Vinyasa Krama 
-Start on your back with yout knees bent and drawn to the chest and off of the floor. On exhale, pull your knees progressively closer to your chest. On inhale return to starting position. Get out of the post by putting your feet gently on the ground. Repeat for 5-8 breaths. 
+Start on your back with your knees bent and drawn to the chest and off of the floor. On exhale, pull your knees progressively closer to your chest. On inhale return to starting position. Get out of the post by putting your feet gently on the ground. Repeat for 5-8 breaths. 
 
 ## Preparation 
 This is the gentlest of poses. No preperation needed. 
