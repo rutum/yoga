@@ -10,7 +10,6 @@ Easy
 
 ## Information Chart
 
-
 |:----------------|:---------------|
 | **Translation** | Knees to Chest Post or Wind Relieving Pose or Breaking Wind Pose   |
 | **Position**    | Supine (Lying on the back on the mat)  |
