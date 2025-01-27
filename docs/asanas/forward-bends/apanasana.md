@@ -1,11 +1,12 @@
 ---
-title: Apanasana (Knees to Chest Pose) 
+title: Apanasana 
 parent: Forward Bends
 ---
 
 # Apanasana (Knees to Chest Pose)
 Easy
 {: .label .label-blue }
+
 ![apanasana](/yoga/assets/images/fb/apanasana.png)
 
 ## Information Chart
