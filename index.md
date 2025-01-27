@@ -37,7 +37,7 @@ Moderate
 | Forward Bend      | [Padahastasana](/yoga/docs/asanas/forward-bends/padahastasana/) <br> [Padangustasana](/yoga/docs/asanas/forward-bends/padangustasana/) <br> [Navasana](/yoga/docs/asanas/forward-bends/navasana/) <br> Ardha Navasana <br> [Upavista Konasana](/yoga/docs/asanas/forward-bends/upavista-konasana/) <br> [Ardha Parsvottanasana](/yoga/docs/asanas/forward-bends/ardha-parsvottanasana/) <br> [Baddha Konasana - FB Variation](/yoga/docs/asanas/forward-bends/baddha-konasana/) <br> [Janu Sirsasana](/yoga/docs/asanas/forward-bends/janu-sirsasana/) <br> [Pascimatanasana](/yoga/docs/asanas/forward-bends/pascimatanasana/)|
 | BackBend          | Salabhasana <br> [Vimanasana](/yoga/docs/asanas/back-bends/vimanasana/) <br>  Bhujangasana with both legs bent <br>  [Dvi Pada Pitham with one leg]() <br>  [Urdhva Mukha Svasana](/yoga/docs/asanas/back-bends/urdhva-mukha-svanasana/) <br>  [Godapitham](/yoga/docs/asanas/back-bends/godapitham/) <br>  [Dhanurasana](/yoga/docs/asanas/back-bends/dhanurasana/) <br>  [Eka Pada Rajakapotasana](/yoga/docs/asanas/back-bends/eka-pada-rajakapotanasana/)  |
 
-Moderate
+Difficult
 {: .label .label-red }
 
 | Pose Type         | Asanas |
