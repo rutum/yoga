@@ -16,7 +16,7 @@ Easy
 | **Position**    | Supine (Lying on the back on the mat)  |
 | **Direction**   | Forward Bend   |
 | **Style**       | Symmetrical   |
-| **Benefits**    | Primary: Stretch themuscles of the back and spine <br> Secondary: stretch the hamstrings and the back of the body   |
+| **Benefits**    | Primary: Stretch the muscles of the back and spine <br> Secondary: stretch the hamstrings and the back of the body   |
 |**Difficulty** | Easy|
 
 ## Vinyasa Krama 

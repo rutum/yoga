@@ -4,7 +4,7 @@ parent: Pascimatanasana
 ---
 
 # Ardha Padma Pascimatanasana (Half Lotus Forward Fold)
-Intermediate
+Difficult
 {: .label .label-red }
 ![Ardha Baddha Padma Pascimatanasana](/yoga/assets/images/fb/ardha-baddha-padma-pascimatanasana.png)
 ## Information Chart

@@ -15,9 +15,8 @@ Easy
 | **Position**    | Kneeling |
 | **Direction**   | Forward Bend   |
 | **Style**       | Symmetrical   |
-| **Benefits**    | Primary: Stretch themuscles of the back and spine <br> Secondary: stretch the hamstrings and the back of the body   |
+| **Benefits**    | Primary: Stretch the muscles of the back and spine <br> Secondary: stretch the hamstrings and the back of the body   |
 | **Difficulty**  |  Easy                                      | 
-
 
 ## Vinyasa Krama 
 Start on your hands and knees with a neutral back. On your next exhale, bend your knees and bring yout head and arms to the ground. On the next inhale, go back to hands and knees. Repeat for 5-8 breaths. 

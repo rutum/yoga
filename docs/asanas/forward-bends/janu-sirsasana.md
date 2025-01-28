@@ -16,11 +16,10 @@ Moderate
 | **Direction**         | Forward Bend   |
 | **Style**             | Assymetrical   |
 | **Benefits**          | Primary: Stretch the muscles of the back and spine <br> Secondary: stretch the hamstrings and the back of the body   |
-| **Difficulty**  |  Moderate                                      | 
-
+| **Difficulty**  |  Moderate                                      |
 
 ## Vinyasa Krama 
-
+Start in a seated position with one leg folded and the foot touching the oopsite thigh, and the other foot out extended in front of you. Raise your hands 
 ## Preparation 
 
 ## Counterposes
