@@ -24,10 +24,10 @@ Moderate
 Start with left foot forward and right foot back, with feet almost hip distance apart. Raise your hands up and over your head. On exhale, bend forward halfway with yout arms outstretched. On inhlae, go back to standing with yout arms overhead. Repeat on each side for 5-8 breaths. 
 
 ## Preparation 
-Chakravakasana, Apanasana, Cat-Cow, Down-Dog, Bird-Dog, Vajarasana, Uttanasana, Upavista Konasana, Standing wide legged forward fold
+Chakravakasana, [Apanasana](https://rutumulkar.com/yoga/docs/asanas/forward-bends/apanasana/), Cat-Cow, Down-Dog, Bird-Dog, Vajarasana, Uttanasana, Upavista Konasana, Standing wide legged forward fold
 
 ## Counterposes
-Chakravakasana, Apanasana, Cat-Cow, Down-Dog, Uttanasana, Shavasana
+Chakravakasana, [Apanasana](https://rutumulkar.com/yoga/docs/asanas/forward-bends/apanasana/), Cat-Cow, Down-Dog, Uttanasana, Shavasana
 
 ## Contraindications
 Avoid if you have acute back or shoulder injuries. Avoid if you suffer from vertigo or migraine. 

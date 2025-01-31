@@ -23,7 +23,7 @@ Easy
 Start in standing position with your feed hip distance apart with your arms stretched overhead. With an exhale, bend forward at the hips and have your hands reach out in front of you. On the next inhale go back to standing with your hands over your head. Repeat for 5-8 reps. 
 
 ## Preparation 
-Apanasana, cat-cow, down dog, vajarasana, bird dog
+[Apanasana](https://rutumulkar.com/yoga/docs/asanas/forward-bends/apanasana/), cat-cow, down dog, vajarasana, bird dog
 
 ## Counterposes
 Cat-Cow, Down Dog, Bird Dog, Shavasana

@@ -23,10 +23,10 @@ Moderate
 Start in a seated position with your hands over your head and your feet straight out in front of you. On the next exhale fold forward, gently bending your knees and bringing your forehead to the knees. On inhale go back to the seated position with yout hands overhead. Repeat for 5-8 breaths
 
 ## Preparation 
-[Chakravakasana](), [Apanasana](), [Cat-Cow](), Down-dog, childs pose, bird dog, Vajarasana, Standing FOrward Fold, Wide Legged Forward fold, Warrior 1, Banana Pose 
+[Chakravakasana](), [Apanasana](https://rutumulkar.com/yoga/docs/asanas/forward-bends/apanasana/), [Cat-Cow](), Down-dog, childs pose, bird dog, Vajarasana, Standing FOrward Fold, Wide Legged Forward fold, Warrior 1, Banana Pose 
 
 ## Counterposes
-Chakravakasana, Apanasana, Cat-Cow, Childs Pose, Down-Dog, Bird Dog, Vajarasana, Shavasana
+Chakravakasana, [Apanasana](https://rutumulkar.com/yoga/docs/asanas/forward-bends/apanasana/), Cat-Cow, Childs Pose, Down-Dog, Bird Dog, Vajarasana, Shavasana
 
 ## Contraindications
 Avoid if you have acute back pain

@@ -21,10 +21,10 @@ Difficult
 Start in a seated position and bring your left foot over the opposite thigh in a half lotus position, and the other leg stretched out in front of you. Inhale, and bring your arms overhead. On the next exhale, fold forward, gently bending your straight leg and bringing your head to your knee. On the next inhale, go back to seated position with your arms overhead. Repeat for 5-8 reps on each side. 
 
 ## Preparation 
-Apanasana, cat-cow, down-dog, standing forward fold, wide legged forward dold, bird dog, banana pose, uttanasana
+[Apanasana](https://rutumulkar.com/yoga/docs/asanas/forward-bends/apanasana/), cat-cow, down-dog, standing forward fold, wide legged forward dold, bird dog, banana pose, uttanasana
 
 ## Counterposes
-cat-cow, bird-dog, down dog, uttanasana, apanasana, Shavasana
+cat-cow, bird-dog, down dog, uttanasana, [Apanasana](https://rutumulkar.com/yoga/docs/asanas/forward-bends/apanasana/), Shavasana
 
 ## Contraindications
 Avoid if you have acute knee or back injuries

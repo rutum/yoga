@@ -24,10 +24,10 @@ Advanced
 Start in a seated position with your knees bent and your feet facing each other and hold on to your big toe with each hand. On th enext exhale slowly raise your toes while straightening your knees. On the next inhale, bring your feet back on the ground. Repeat for 5-8 breaths. 
 
 ## Preparation 
-Chakravakasana, Apanasana, Standing Forward Fold, Warrior 1, Wide-legged Forward Fold, Cat-Cow, Down-Dog, Bird-Dog
+Chakravakasana, [Apanasana](https://rutumulkar.com/yoga/docs/asanas/forward-bends/apanasana/), Standing Forward Fold, Warrior 1, Wide-legged Forward Fold, Cat-Cow, Down-Dog, Bird-Dog
 
 ## Counterposes
-Cat-Cow, Charkavakasana, Apanasana, Down-Dog, Bird-Dog, Shavasana
+Cat-Cow, Charkavakasana, [Apanasana](https://rutumulkar.com/yoga/docs/asanas/forward-bends/apanasana/), Down-Dog, Bird-Dog, Shavasana
 
 ## Contraindications
 Do not do the pose if there is an injury to the back, hips, shoulders, neck, arms or lower back

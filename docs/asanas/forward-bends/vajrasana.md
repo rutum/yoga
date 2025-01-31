@@ -22,7 +22,7 @@ Easy
 Start with standing on your knees. Take a deep breath and raise your hands above your head, extending your spine. On your next exhale, bend forward, sweeping arms behind your back, bringing your head to the mat. On your next inhale, go back to kneeling position. 
 
 ## Preparation 
-Apanasana, Cat-Cow, Down-Dog, Chakravakasana
+[Apanasana](https://rutumulkar.com/yoga/docs/asanas/forward-bends/apanasana/), Cat-Cow, Down-Dog, Chakravakasana
 
 ## Counterposes
 

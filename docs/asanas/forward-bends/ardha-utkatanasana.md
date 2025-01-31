@@ -25,7 +25,7 @@ Start in a standing position with your feet firmly on the ground. Take a deep br
 Chakravakasana, Down Dog, Bird Dog, Vajarasana, Standing Forward Bend
 
 ## Counterposes
-Uttanasana, Downdog, Childs Pose, Apanasana, Shavasana
+Uttanasana, Downdog, Childs Pose, [Apanasana](https://rutumulkar.com/yoga/docs/asanas/forward-bends/apanasana/), Shavasana
 
 ## Contraindications
 Avoid is you have acute hip problems, shoulders or knee issues, not good for uncontrolled high BP
