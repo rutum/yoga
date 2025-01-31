@@ -21,10 +21,10 @@ Intermediate
 ## Vinyasa Krama 
 
 ## Preparation 
-[Apanasana](), [Chakravakasana](), [Vajarasana](), [Cat-Cow](), [Down-Dog](), [Stanging Forward Bend](), [Sideways Forward Bend](), [Bird Dog](), [Upavista Konasana](), [Virbhadrasana 1]()
+[Apanasana](https://rutumulkar.com/yoga/docs/asanas/forward-bends/apanasana/), [Chakravakasana](), [Vajarasana](), [Cat-Cow](), [Down-Dog](), [Stanging Forward Bend](), [Sideways Forward Bend](), [Bird Dog](), [Upavista Konasana](), [Virbhadrasana 1]()
 
 ## Counterposes
-[Childs Pose](), [Down-Dog](), [Cat-Cow](), [Vajarasana](), [Bird Dog](), [Apanasana](), [Banana Pose](), [Shavasana]()
+[Childs Pose](), [Down-Dog](), [Cat-Cow](), [Vajarasana](), [Bird Dog](), [Apanasana](https://rutumulkar.com/yoga/docs/asanas/forward-bends/apanasana/), [Banana Pose](), [Shavasana]()
 
 ## Contraindications
 
